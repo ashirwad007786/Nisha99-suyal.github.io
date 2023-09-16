@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* canvas */
+canvas {
+	position: absolute;
+	z-index: -1;
+/* 	background-image: radial-gradient(#2F1A56, #210F49); */
+}
